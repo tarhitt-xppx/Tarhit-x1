@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pixellab_blue">#3778DE</color>
+    <color name="pixellab_header_blue">#3778DE</color>
+    <color name="pixellab_pill_blue">#3465C4</color>
+    <color name="pixellab_pill_logo">#DFE9FF</color>
+    <color name="pixellab_panel_bg">#F5F5F5</color>
+    <color name="pixellab_dark_blue">#8A96A7</color>
+    <color name="pixellab_workspace_bg">#FAFAFA</color>
+    <color name="pixellab_action_bar_icon">#777777</color>
+    <color name="pixellab_unselected_tab">#BFBFBF</color>
+    <color name="pixellab_tab_active">#418DC3</color>
+    <color name="pixellab_tab_border">#BCD0F5</color>
+    <color name="pixellab_divider">#DDDDDD</color>
+    <color name="pixellab_teal">#009688</color>
+    <color name="pixellab_sage">#8FB0AF</color>
+    <color name="pixellab_pink">#EC2166</color>
+    <color name="pixellab_cyan">#2FB2E5</color>
+    <color name="pixellab_danger">#E11D48</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PixelLab Studio</string>
+    <string name="quotes_title">Quotes</string>
+    <string name="tab_themes">Themes</string>
+    <string name="tab_text">Text</string>
+    <string name="tab_shapes">Shapes</string>
+    <string name="tab_image">Image</string>
+    <string name="tab_bg">Bg</string>
+    <string name="tab_effects">Effects</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="done">Done</string>
+    <string name="default_text">New Text</string>
+    <string name="save_project">Save as Project</string>
+    <string name="save_image">Save as Image</string>
+    <string name="my_projects">My Projects</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="aspect_preset">
+        <item>Custom</item>
+        <item>Square (1:1)</item>
+        <item>Profile Picture</item>
+        <item>YouTube Channel Banner</item>
+        <item>YouTube Thumbnail</item>
+        <item>Facebook Cover Art</item>
+        <item>Google+ Cover Photo</item>
+        <item>Twitter Header Size</item>
+    </string-array>
+
+    <string-array name="image_format">
+        <item>JPG (no transparency)</item>
+        <item>PNG</item>
+    </string-array>
+
+    <string-array name="quality_presets">
+        <item>Default (1280)</item>
+        <item>Custom</item>
+        <item>Low (480)</item>
+        <item>Medium (1280)</item>
+        <item>High (1920)</item>
+        <item>Very High (2560)</item>
+        <item>Ultra (3264)</item>
+    </string-array>
+</resources>
